@@ -16,7 +16,7 @@
 如果帮到你了，记得给Star哦。
 
 ## 演示 ##
-![](https://www.crab.pub/cpt/1.png)
-![](https://www.crab.pub/cpt/2.png)
-![](https://www.crab.pub/cpt/3.png)
-![](https://www.crab.pub/cpt/4.png)
+![](https://raw.githubusercontent.com/crabkun/img/master/cpt/1.png)
+![](https://raw.githubusercontent.com/crabkun/img/master/cpt/2.png)
+![](https://raw.githubusercontent.com/crabkun/img/master/cpt/3.png)
+![](https://raw.githubusercontent.com/crabkun/img/master/cpt/4.png)
